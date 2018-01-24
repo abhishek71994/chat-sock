@@ -1,4 +1,4 @@
-## Socket chat app
+Socket chat app
 
 ### Installation guide
 ```
@@ -11,3 +11,14 @@ and in another terminal window
 ```
   node server.js
 ```
+
+*Open up two different browser windows to start chatting*
+
+### Things to update
+* Styling of the app
+* Connecting it to a server and deploying it on github pages
+
+### Desire list
+* Add an auth feature.
+* Add backend to chat(User profiles and history)
+* If possible, add a group feature to the chatting station
